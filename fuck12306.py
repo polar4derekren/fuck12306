@@ -12,6 +12,7 @@ import urllib
 import urllib2
 import requests
 import re
+
 import json
 
 # hack CERTIFICATE_VERIFY_FAILED
